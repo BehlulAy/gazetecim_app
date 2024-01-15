@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727196949956",
+    "project_id": "gazetecim-app",
+    "storage_bucket": "gazetecim-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727196949956:android:37dcaacc8fb18f61459891",
+        "android_client_info": {
+          "package_name": "com.example.gazetecim_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGCHPiamDaDM9rFR2qiGzTEVbzoAhWDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
